@@ -1,0 +1,98 @@
+[
+    {
+      "id": "64a8b9a7f4c85582e772d101",
+      "title": "The Ink Black Heart",
+      "author": "Robert Galbraith",
+      "thumbnail": "the-ink-black-heart.jpg",
+      "slug": "the-ink-black-heart",
+      "description": "Cormoran Strike investigates the murder of a controversial cartoonist, delving into the dark side of online fame.",
+      "stars": 5,
+      "price": 18.99,
+      "published_year": 2022,
+      "category": ["fiction", "mystery"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d102",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "thumbnail": "harry-potter-order-phoenix.jpg",
+      "slug": "harry-potter-order-phoenix",
+      "description": "Harry faces government opposition and forms 'Dumbledore's Army' to prepare for the return of Voldemort.",
+      "stars": 5,
+      "price": 12.50,
+      "published_year": 2003,
+      "category": ["fiction", "fantasy"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d103",
+      "title": "The 6:20 Man",
+      "author": "David Baldacci",
+      "thumbnail": "the-6-20-man.jpg",
+      "slug": "the-6-20-man",
+      "description": "A former Army Ranger uncovers a conspiracy aboard his commuter train while working on Wall Street.",
+      "stars": 4,
+      "price": 14.99,
+      "published_year": 2022,
+      "category": ["fiction", "thriller"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d104",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "thumbnail": "atomic-habits.jpg",
+      "slug": "atomic-habits",
+      "description": "A proven framework for building good habits and breaking bad ones through tiny changes.",
+      "stars": 5,
+      "price": 11.99,
+      "published_year": 2018,
+      "category": ["non-fiction", "self-help"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d105",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "thumbnail": "project-hail-mary.jpg",
+      "slug": "project-hail-mary",
+      "description": "A lone astronaut must save Earth from extinction by solving an interstellar mystery.",
+      "stars": 5,
+      "price": 9.99,
+      "published_year": 2021,
+      "category": ["fiction", "sci-fi"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d106",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "thumbnail": "educated.jpg",
+      "slug": "educated",
+      "description": "A memoir about a woman who leaves her survivalist family and goes on to earn a PhD from Cambridge.",
+      "stars": 5,
+      "price": 13.25,
+      "published_year": 2018,
+      "category": ["non-fiction", "memoir"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d107",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "thumbnail": "the-silent-patient.jpg",
+      "slug": "the-silent-patient",
+      "description": "A criminal psychotherapist becomes obsessed with a woman who shot her husband and then stopped speaking.",
+      "stars": 4,
+      "price": 8.49,
+      "published_year": 2019,
+      "category": ["fiction", "psychological thriller"]
+    },
+    {
+      "id": "64a8b9a7f4c85582e772d108",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "thumbnail": "sapiens.jpg",
+      "slug": "sapiens",
+      "description": "A brief history of humankind, exploring how Homo sapiens became Earth's dominant species.",
+      "stars": 5,
+      "price": 15.75,
+      "published_year": 2011,
+      "category": ["non-fiction", "history"]
+    }
+  ]
