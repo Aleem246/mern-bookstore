@@ -1,0 +1,16 @@
+img{
+    height:100px;
+    width: 100px;
+    justify-content: space-evenly !important;
+    flex-wrap: nowrap;
+
+}
+img h5{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
