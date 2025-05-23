@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "concurrently \"npm run client\" \"npm run server\"",
+    "client": "cd front-end && npm run dev",
+    "server": "cd back-end && nodemon script.js"
   },
   "type": "module",
   "author": "Aleem",
@@ -19,5 +19,8 @@
     "mongoose": "^8.14.2",
     "multer": "^1.4.5-lts.2",
     "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
   }
 }

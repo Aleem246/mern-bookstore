@@ -9,7 +9,7 @@ const app = express();
 
 dotenv.config();
 const port = process.env.PORT;
-console.log(process.env.PORT);
+// console.log(process.env.PORT);
 
 //middle ware
 app.use(cors());
@@ -35,7 +35,7 @@ app.get("/books", async (req, res) => {
     try {
       const category = req.query.category;
       const filter = {};
-      console.log("categories specified " + category);
+      console.log("category specified " + category);
   
       if (category) {
         filter.category = category;
